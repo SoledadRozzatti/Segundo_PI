@@ -1,4 +1,4 @@
-<p align=center><img src=_src\Data-analitics.png><p>
+<p align=center><img src=_src\Data_analytics.png><p>
 
 # PROYECTO INDIVIDUAL 2
 
