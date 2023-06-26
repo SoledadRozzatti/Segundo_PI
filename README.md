@@ -1,3 +1,5 @@
+<p align=center><img src=_src\Data-analitics.png><p>
+
 # PROYECTO INDIVIDUAL 2
 
 _ _ _
