@@ -86,7 +86,17 @@ ___
 <br>
 
 > ### Conclusiones en base al análisis realizado.
-### De acuerdo con informes recientes de la ICAO, se ha registrado un incremento significativo en el tráfico aéreo a lo largo del último siglo. Sin embargo, a pesar de este crecimiento, el número de accidentes aéreos ha experimentado una tendencia contraria, evidenciándose una notable disminución.
+### Conforme a los informes recientes de la ICAO, se ha identificado un crecimiento notable en el tráfico aéreo durante el último siglo. A pesar de esta tendencia, se ha manifestado una disminución significativa en el número de accidentes aéreos, lo que indica una dinámica contrapuesta.
+
+### El análisis de los registros históricos anuales de accidentes aéreos revela un incremento de estos sucesos al inicio del siglo XX, periodo que coincide con los primeros desarrollos en la aviación. Esta alza persistió en correlación a los avances tecnológicos en aeronáutica y durante el periodo de la Segunda Guerra Mundial.
+
+### Sin embargo, en 1944 se constató una disminución en el número de accidentes aéreos, lo que coincide con la creación de la ICAO. Desde este punto, la organización introdujo políticas de seguridad aérea y estableció controles estandarizados que han contribuido a la tendencia decreciente, pese a episodios específicos de aumento durante eventos conflictivos, como la Guerra del Golfo.
+
+### El ataque a las Torres Gemelas en 2001 representó un punto de inflexión en la historia de la seguridad aérea, propiciando la implementación de medidas de control aún más rigurosas a nivel global. En 2017, en un contexto de normalidad y ausencia de pandemia, se registró la cifra más baja de accidentes aéreos en la historia, lo que demuestra los continuos esfuerzos por mejorar la seguridad en la aviación.
+
+### Es importante señalar que, a pesar de que la frecuencia de accidentes en la aviación puede ser inferior a la de otros medios de transporte, como los vehículos terrestres o las motocicletas, las tasas de mortalidad son considerablemente más altas y la tasa de supervivencia, más bajas. Este fenómeno podría atribuirse al impacto devastador que suele acompañar a los accidentes aéreos, la dificultad y el tiempo necesario para que los equipos de rescate lleguen al lugar del accidente, las condiciones climáticas adversas, y la inaccesibilidad de muchos lugares, que puede prolongar los tiempos de rescate.
+
+### Por ello, uno de los pilares fundamentales en la disminución de accidentes, en aquellos factores que sí podemos controlar (dado que hay numerosos factores en los que no tenemos injerencia), es la prevención y la seguridad operacional.
 <br>
 
 
