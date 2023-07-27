@@ -86,7 +86,7 @@ ___
 <br>
 
 > ### Conclusiones en base al análisis realizado.
-
+### De acuerdo con informes recientes de la ICAO, se ha registrado un incremento significativo en el tráfico aéreo a lo largo del último siglo. Sin embargo, a pesar de este crecimiento, el número de accidentes aéreos ha experimentado una tendencia contraria, evidenciándose una notable disminución.
 <br>
 
 
