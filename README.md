@@ -1,4 +1,4 @@
-# <p align=center><img src=_src\Data_analytics.png><p>
+ <p align=center><img src=_src\Data_analytics.png><p>
 
 # <h1 align=center> **PROYECTO INDIVIDUAL N° 2** </h1>
 
